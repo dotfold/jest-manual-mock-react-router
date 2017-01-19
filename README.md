@@ -24,5 +24,5 @@ the console shows that it is the manual mock.
 
 So a manual mock of a node_modules package does not work as expected.
 
-Hopefull my implementation of the manual mocks is just incorrect, in which case I would be happy to help improve
+Hopefully my implementation of the manual mocks is just incorrect, in which case I would be happy to help improve
 the docs for this area.
