@@ -1,4 +1,6 @@
 
+From a terminal, run `npm test`.
+
 | mod | desc |
 |-----|------|
 | `moduleA`| has a default export and a named export |
